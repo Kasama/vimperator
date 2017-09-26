@@ -4,8 +4,10 @@ set toolbars=nonavigation,nomenu,tabs
 set followhints=0
 set hintchars="qwerasdfzcxv"
 set hintinputs="label,value,name"
-set showhinttexts=on
+set showtexthints=true
 set hintmatching=fuzzy
 set newtab="all"
 
-" vim: set ft=vimperator:
+colorscheme kasama
+
+" vim: set ft=vimperator.vim
